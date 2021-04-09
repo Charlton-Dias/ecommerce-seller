@@ -11,7 +11,8 @@ function Header() {
           <Link to="/">
             <img
               className="header__logo"
-              src="https://josephreisigl.files.wordpress.com/2015/08/amazonlogo.png"
+              src="https://firebasestorage.googleapis.com/v0/b/tybca-project.appspot.com/o/assets%2Flogo001.png?alt=media&token=76107bca-7ed7-476f-bf2f-30a440a0928d"
+              //"https://josephreisigl.files.wordpress.com/2015/08/amazonlogo.png"
               alt="logo"
             />
           </Link>
